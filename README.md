@@ -10,7 +10,9 @@ JPaint has the following features:
 Pick a shape: Ellipse, Triangle, or Rectangle
 
 Pick a primary color
+
 Pick a secondary color
+
 Select shading type (outline only, filled-in, outline and filled-in)
 Click and drag to draw a shape
 Click and drag to select shapes, selected shapes appear with a dashed outline.
